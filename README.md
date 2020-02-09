@@ -12,7 +12,7 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
  - Timespan: Oct 1999 - Oct 2012
  - Number of Attributes/Columns in data: 10
 
-Attribute Information:
+#### Attribute Information:
 
  - Id
  - ProductId - unique identifier for the product
